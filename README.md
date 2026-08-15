@@ -12,7 +12,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ioathes&base=535000&abbreviated=true&style=plastic&color=757E56&label=GLORIOUS⠀PURPOSE。)
 
-### $\color{#808670}{\textsf{𝔑}}$ $\color{#79805F}{\textsf{ყ}}$ $\color{#445644}{\textsf{𝖝}}$⠀ $\color{#8D8D82}{\textsf{ₒᵣ}}$⠀ $\color{#445644}{\textsf{𝔎}}$ $\color{#79805F}{\textsf{𝔞}}$ $\color{#808670}{\textsf{𝔯}}$ $\color{#898B83}{\textsf{𝔞}}$
+### $\color{#808670}{\textsf{𝔑}}$ $\color{#79805F}{\textsf{𝔶}}$ $\color{#445644}{\textsf{𝖝}}$⠀ $\color{#8D8D82}{\textsf{ₒᵣ}}$⠀ $\color{#445644}{\textsf{𝔎}}$ $\color{#79805F}{\textsf{𝔞}}$ $\color{#808670}{\textsf{𝔯}}$ $\color{#898B83}{\textsf{𝔞}}$
 
 $\color{#445B47}{\textsf{𝓼he}}$ $\color{#919191}{\textsf{/}}$ $\color{#707C4E}{\textsf{he𝑟}}$⠀  $\color{#8D8D82}{\textsf{♡ ۪۪ ˇ}}$⠀   $\color{#808670}{\textsf{8͟t͟e͟e͟n͟}}$
 
