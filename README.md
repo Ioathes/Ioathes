@@ -26,8 +26,7 @@ $\color{#757E56}{\textsf{c}}$ $\color{#919191}{\textsf{+}}$ $\color{#445B47}{\te
  
 $\color{#405344}{\textsf{𝖒ostly}}$⠀⠀ $\color{#757E56}{\textsf{𝖔fftab,}}$⠀⠀ $\color{#919191}{\textsf{w2i}}$
 
-
-$\color{#767676}{\textsf{best viewed in 𝓭e͟s͟k͟t͟o͟p!}}$
+$\color{#898B83}{\textsf{best}}$ $\color{#808670}{\textsf{viewed}}$ $\color{#79805F}{\textsf{in}}$ $\color{#445644}{\textsf{𝓭e͟s͟k͟t͟o͟p!}}$
 </td>
 </tr>
 </table>
