@@ -2,11 +2,15 @@
 ⠀
 ⠀
 <div align="center">
+
 <table>
 <tr>
+<td width="40%" align="center">
+<img src="https://file.garden/Zx4tbq1Z7kthgAaN/Untitled101_20260814231605.png" width="250">
+</td>
 <td width="28%" align="center">
 
-  ![](https://komarev.com/ghpvc/?username=ioathes&base=535000&abbreviated=true&style=plastic&color=757E56&label=GLORIOUS⠀PURPOSE)
+![](https://komarev.com/ghpvc/?username=ioathes&base=535000&abbreviated=true&style=plastic&color=757E56&label=GLORIOUS⠀PURPOSE)
 
 ### $\color{#757E56}{\textsf{𝔑}}$ $\color{#919191}{\textsf{y}}$ $\color{#445B47}{\textsf{x}}$⠀ $\color{#8D8D82}{\textsf{ₒᵣ}}$⠀ $\color{#445B47}{\textsf{𝔎}}$ $\color{#919191}{\textsf{a}}$ $\color{#757E56}{\textsf{r}}$ $\color{#919191}{\textsf{a}}$
 
@@ -22,9 +26,7 @@ $\color{#445B47}{\textsf{she}}$ $\color{#919191}{\textsf{/}}$ $\color{#707C4E}{\
  
  $\color{#405344}{\textsf{mostly}}$⠀⠀ $\color{#757E56}{\textsf{offtab,}}$⠀⠀ $\color{#919191}{\textsf{w2i}}$
 
-<td width="40%" align="center">
-<img src="https://file.garden/Zx4tbq1Z7kthgAaN/Untitled101_20260815030008.png" width="250">
-</td>⠀ ⠀ 
+⠀ ⠀ 
 
 </td>
 
