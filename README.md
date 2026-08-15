@@ -26,6 +26,7 @@ $\color{#757E56}{\textsf{c}}$ $\color{#919191}{\textsf{+}}$ $\color{#445B47}{\te
  
 $\color{#405344}{\textsf{mostly}}$⠀⠀ $\color{#757E56}{\textsf{offtab,}}$⠀⠀ $\color{#919191}{\textsf{w2i}}$
 
+
 $\color{#767676}{\textsf{view in desktop!}}$
 
 </td>
