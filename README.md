@@ -28,9 +28,7 @@ $\color{#405344}{\textsf{mostly}}$⠀⠀ $\color{#757E56}{\textsf{offtab,}}$⠀�
 
 
 $\color{#767676}{\textsf{view in desktop!}}$
-
 </td>
-
 </tr>
 </table>
 
