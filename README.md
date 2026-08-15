@@ -16,7 +16,7 @@
 
 $\color{#445B47}{\textsf{𝓼he}}$ $\color{#919191}{\textsf{/}}$ $\color{#707C4E}{\textsf{he𝑟}}$⠀  $\color{#8D8D82}{\textsf{♡ ۪۪ ˇ}}$⠀   $\color{#808670}{\textsf{8͟t͟e͟e͟n͟}}$
 
-$\color{#919191}{\textsf{𓐇ׁ⑅}}$⠀ $\color{#808670}{\textsf{𝖘oc͟i͟a͟l͟l͟y͟}}$⠀  $\color{#445B47}{\textsf{𝐚𝐯𝐨𝐢𝐝𝐚𝐧𝐭}}$ 
+$\color{#919191}{\textsf{𓐇ׁ⑅}}$⠀ $\color{#79805F}{\textsf{𝖘oc͟i͟a͟l͟l͟y͟}}$⠀  $\color{#445B47}{\textsf{𝐚𝐯𝐨𝐢𝐝𝐚𝐧𝐭}}$ 
 
 $\color{#445644}{\textsf{𝓻}}$<a href="https://rentry.co/awaked">entry</a>⠀⠀ $\color{#79805F}{\textsf{新}}$<a href="https://hyrule.atabook.org/">book</a>
 
