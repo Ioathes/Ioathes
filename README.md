@@ -20,7 +20,7 @@ $\color{#919191}{\textsf{𓐇ׁ⑅}}$⠀ $\color{#808670}{\textsf{𝖘oc͟i͟a͟
 
 $\color{#445644}{\textsf{𝓻}}$<a href="https://rentry.co/awaked">entry</a>⠀⠀ $\color{#79805F}{\textsf{新}}$<a href="https://hyrule.atabook.org/">book</a>
 
-$\color{#808670}{\textsf{𝓶}}$<a href="https://rentry.co/phaisunaxa">atching</a>
+$\color{#808670}{\textsf{𝓶}}$<a href="https://rentry.co/phaisunaxa">atching</a>⠀ $\color{#898B83}{\textsf{𓈒๑ᣟ݂ }}$ 
 
 $\color{#757E56}{\textsf{c}}$ $\color{#919191}{\textsf{+}}$ $\color{#445B47}{\textsf{h}}$⠀⠀ $\color{#808670}{\textsf{always}}$⠀⠀ $\color{#405344}{\textsf{𝖊nc}}$⠀
  
