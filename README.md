@@ -10,7 +10,7 @@
 </td>
 <td width="28%" align="center">
 
-![](https://komarev.com/ghpvc/?username=ioathes&base=535000&abbreviated=true&style=plastic&color=757E56&label=GLORIOUS⠀PURPOSE。)
+![](https://komarev.com/ghpvc/?username=ioathes&base=535000&abbreviated=true&style=plastic&color=6e7d4d&label=GLORIOUS⠀PURPOSE。)
 
 ### $\color{#808670}{\textsf{𝔑}}$ $\color{#79805F}{\textsf{𝔶}}$ $\color{#445644}{\textsf{𝔵}}$⠀ $\color{#8D8D82}{\textsf{ₒᵣ}}$⠀ $\color{#445644}{\textsf{𝔎}}$ $\color{#79805F}{\textsf{𝔞}}$ $\color{#808670}{\textsf{𝔯}}$ $\color{#898B83}{\textsf{𝔞}}$
 
