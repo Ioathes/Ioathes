@@ -24,7 +24,7 @@ $\color{#808670}{\textsf{𝓶}}$<a href="https://rentry.co/phaisunaxa">atching</
 
 $\color{#757E56}{\textsf{c}}$ $\color{#919191}{\textsf{+}}$ $\color{#445B47}{\textsf{h}}$⠀⠀ $\color{#808670}{\textsf{always}}$⠀⠀ $\color{#405344}{\textsf{𝖊nc}}$⠀
  
-$\color{#405344}{\textsf{𝖒ostly}}$⠀⠀ $\color{#757E56}{\textsf{𝖔fftab,}}$⠀⠀ $\color{#919191}{\textsf{w2i}}$
+$\color{#405344}{\textsf{𝖒ostly}}$⠀⠀ $\color{#757E56}{\textsf{𝖔fftab,}}$⠀⠀ $\color{#808670}{\textsf{w2i}}$
 
 $\color{#898B83}{\textsf{best}}$ $\color{#808670}{\textsf{viewed}}$ $\color{#79805F}{\textsf{in}}$ $\color{#445644}{\textsf{𝓭e͟s͟k͟t͟o͟p!}}$
 </td>
