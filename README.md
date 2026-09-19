@@ -32,14 +32,6 @@ $\color{#898B83}{\textsf{best}}$ $\color{#808670}{\textsf{viewed}}$ $\color{#798
 </table>
 ⠀
 ⠀
-<details>
-<summary></summary>
- 
-hi i'm going to be semi inactive for a while as i have been severely struggling with my mental health lately and need some time to focus on myself. i will still log in occasionally when i have the energy, but probably won't be around as much. thank you for understanding ^_^
- 
-</details>
-
-</div>
 ⠀
 
 ⠀
