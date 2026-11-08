@@ -12,4 +12,7 @@
 
 𝓻<a href="https://rentry.co/awaked">entry</a>⠀⠀⠀⠀⠀新<a href="https://hyrule.atabook.org/">book</a>
 <br clear="left">
-
+<details>
+  <summary></summary>
+  i do NOT condone any of leland coyle's actions pls dont jump me ok thanks
+</details>
