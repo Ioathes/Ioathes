@@ -14,5 +14,5 @@
 <br clear="left">
 <details>
   <summary></summary>
-  i do NOT condone any of leland coyle's actions pls dont jump me ok thanks
+  i do NOT condone any of leland coyle's actions ok?
 </details>
