@@ -19,7 +19,3 @@ c+h⠀always⠀enc⠀mostly⠀offtab,⠀w2i
   </td>
 </table>
 <br clear="left">
-<details>
-  <summary></summary>
-  i do NOT condone any of leland coyle's actions ok?
-</details>
