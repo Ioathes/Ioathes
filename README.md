@@ -11,7 +11,7 @@
   </td>
 </table>
 
-⠀⠀⠀⠀⠀⠀𝓻<a href="https://rentry.co/awaked">entry</a>⠀⠀⠀⠀⠀新<a href="https://hyrule.atabook.org/">book</a>
+⠀⠀⠀⠀⠀⠀⠀𝓻<a href="https://rentry.co/awaked">entry</a>⠀⠀⠀⠀⠀新<a href="https://hyrule.atabook.org/">book</a>
 ⠀<table>
  <tr> 
 <td align="center">
