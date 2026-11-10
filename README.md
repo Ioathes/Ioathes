@@ -18,5 +18,5 @@
 c+h⠀always⠀enc⠀mostly⠀offtab,⠀w2i
   </td>
 </table>
-<img src="https://file.garden/Zx4tbq1Z7kthgAaN/lc%20baton.png" width="315"
+<img src="https://file.garden/Zx4tbq1Z7kthgAaN/lc%20baton.png" width="330" align="center">
 <br clear="left">
